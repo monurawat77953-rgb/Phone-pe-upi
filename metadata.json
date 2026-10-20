@@ -1,0 +1,6 @@
+{
+  "name": "PhonePe",
+  "description": "India's premier digital payments and financial services platform for instant UPI transfers, bill payments, wallet, recharges, and wealth management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
